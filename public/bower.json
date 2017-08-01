@@ -1,0 +1,21 @@
+{
+  "name": "pnub",
+  "authors": [
+    "ankit_skywaltz <ankit@skywaltzlabs.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1",
+    "angular-material": "^1.1.4"
+  }
+}
